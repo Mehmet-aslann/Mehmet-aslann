@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mehmet-aslann I am a mechanical engineer, 
+- 🌱 I’m currently learning basic technologies such as HTML, CSS and JavaScript, while also trying to gain experience using modern libraries.
+-As someone who is patient, has strong communication skills and manages time well, I must state that I am open to all kinds of feedback and cooperation. I can't wait to develop better projects with your feedback!
+- 📫 How to reach me mehmetasln01001@gmail.com
